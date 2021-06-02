@@ -5,8 +5,6 @@ b
 2src/main/java/com/example/sweater/Application.java,f\1\f16eb2c1a5b2153e9c6fc131a60e9948f24bbea3
 h
 8src/main/java/com/example/sweater/repos/MessageRepo.java,8\f\8fcfb9bbff646a202c8e00fd31b2fd5d6541c959
-j
-:src/main/java/com/example/sweater/service/UserService.java,1\7\174708d8517a59ab57bf70de28a417e30836ae6a
 b
 2src/main/java/com/example/sweater/domain/Role.java,e\7\e7af4385911c539c64f25ac8a5b14a8743235050
 x
