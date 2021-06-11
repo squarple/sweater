@@ -8,8 +8,16 @@
             <input type="password" class="form-control" id="floatingPassword" placeholder="Password" name="password"/>
             <label for="floatingPassword"> Password</label>
         </div>
+        <#if isRegisterForm>
+            <div class="form-floating mb-3">
+                <input type="email" class="form-control" id="floatingInput" placeholder="some@some.com" name="email"/>
+                <label for="floatingInput">Email</label>
+            </div>
+        </#if>
         <input type="hidden" name="_csrf" value="${_csrf.token}" />
-        <#if !isRegisterForm><a href="/registration">Add new user</a></#if>
+        <#if !isRegisterForm>
+            <a href="/registration">Add new user</a>
+        </#if>
         <button class="btn btn-primary" type="submit">
             <#if isRegisterForm>Create<#else>Sign In</#if>
         </button>
