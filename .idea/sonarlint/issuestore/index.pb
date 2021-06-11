@@ -1,19 +1,11 @@
 
-e
-5src/main/java/com/example/sweater/repos/UserRepo.java,7\8\789dd6c8ef54070d85d30ed71d69a90c52765a43
 h
 8src/main/java/com/example/sweater/repos/MessageRepo.java,8\f\8fcfb9bbff646a202c8e00fd31b2fd5d6541c959
 b
 2src/main/java/com/example/sweater/domain/Role.java,e\7\e7af4385911c539c64f25ac8a5b14a8743235050
-x
-Hsrc/main/java/com/example/sweater/controller/RegistrationController.java,e\2\e2383ae4b4b27dc27691a2a94b8f2b23fe39ec08
 p
 @src/main/java/com/example/sweater/controller/UserController.java,3\c\3c6330352b98349fc8795e3a6f7b5e06c0ce5399
 e
 5src/main/java/com/example/sweater/domain/Message.java,d\d\dd24e93eac953750d6a68ea5e6b3682ae14f271e
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-p
-@src/main/java/com/example/sweater/controller/MainController.java,0\a\0ae0a0dbe53b38979247486761f67e24474a062b
-o
-?src/main/java/com/example/sweater/config/WebSecurityConfig.java,8\c\8c2b5f64bdb0951e85d01cabb0d22e9a88c13d87
+b
+2src/main/java/com/example/sweater/Application.java,f\1\f16eb2c1a5b2153e9c6fc131a60e9948f24bbea3
